@@ -9,17 +9,18 @@ This is the Final Exam Project for CIS233DA. The project will require you to bui
 ## Project Directions
 Complete the final exam by creating the necessary HTML files, CSS files, images, and other assets to build your website based upon the project plan you developed in Part 1 of the Final Exam project.
 
+<br>
+
 ## Submit the Project
-Before you submit your project:
-1. Make sure that you have validated your HTML and CSS code. 
-   1. If any errors were found within the validators, be sure to fix those errors before you submit your assignment.
-2. Apply any final commits to your work.
-3. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
-4. Publish your site using GitHub Pages.
-5. Test your site for any issues. If any problems are found, correct them, apply commits, and push the changes to GitHub. Re-test your site to ensure your changes fixed the problem.
-6. Verify that all files appear on GitHub.
-7. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
-8. In the comment field,
-   1. Type in your instructor's username with an @ before. See the course announcements for their username to use.
-   2. Tell your instructor that your Final Exam Project is ready for grading.
-9. Click on the `Comment` button to finalize and submit your assignment.
+Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
+
+   > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
+1. Review your work and make any necessary updates. Make sure that you have validated your HTML and CSS code. If any errors were found within the validators, be sure to fix those errors before you submit your assignment. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
+3. Verify that all files appear on GitHub.
+
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS233DA-IN-V9 Organization](https://github.com/rsc-cis233DA-in-v9). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
+4. Publish your project using GitHub Pages.
+5. Test your website to ensure all links and content is working properly. Fix any issues that you find.
+6. Right-click the link to your repository and select **Copy Link Address**.
+7. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box.
